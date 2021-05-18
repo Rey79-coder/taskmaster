@@ -1,6 +1,19 @@
-# taskmaster - add functionality
+# TASKMASTE
 
-- As a paid developer. I should proceed every project by folliwing the next steps.
+Taskmaster is a webpage where users can organize their tasks into three different phases. 
+
+To Do
+In Progress
+In Review
+Done
+
+By using this webpage people can get a better control on a dayli basis tasks. It's a good tool to have handy.
+
+
+
+<!--  - SELF NOTE FOR THE PROJECT PROCESS
+       - add functionality
+- As a paid developer. I should proceed every project by following the next steps.
 
 1. Create a local project.
 2. Save a copy in a remote repository.
@@ -11,5 +24,6 @@
 
 
 After you did the setup is a good practice to outline what you are doing. 
-Github issues can help you keeping updated where you're at in your webpage.
+
+Github issues can help you keeping updated where you're at in your webpage. -->
 
