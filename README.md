@@ -1,4 +1,4 @@
-# TASKMASTE
+# TASKMASTER
 
 Taskmaster is a webpage where users can organize their tasks into three different phases. 
 
