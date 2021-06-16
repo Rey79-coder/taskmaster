@@ -1,3 +1,16 @@
 ul.list-group {
     min-height: 130px;
   }
+
+  .ui-datepicker {
+    background: rgb(255, 255, 255);
+    padding: 10px, 10px;
+  }
+
+  .ui-datepicker-header {
+    background-color: #005f28;
+    }
+    
+    .ui-datepicker-title {
+    color: white;
+    }
